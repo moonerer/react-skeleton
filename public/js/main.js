@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/Irving/test/react-skeleton/src/components/List.jsx: Unexpected token (8:51) while parsing file: /Users/Irving/test/react-skeleton/src/components/List.jsx");
